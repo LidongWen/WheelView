@@ -7,7 +7,7 @@
 ```groovy
 // 项目引用
 dependencies {
-    compile 'com.github.LidongWen:WheelView:1.0.0'
+    compile 'com.github.LidongWen:WheelView:1.0.4'
 }
 
 // 根目录下引用
